@@ -1,4 +1,6 @@
-# ML4T_2018Fall
-Course website: http://quantsoftware.gatech.edu/CS7646_Spring_2018
+# Machine Learning Algos for Stock Trading
 
-Information on using the autograder on buffet0x servers: http://quantsoftware.gatech.edu/ML4T_Software_Setup
+Do NOT use this code if you don't understand it. I take no responsibility for you losing all of your money with my amateur, outdated, unvalidated algorithms.
+
+xo
+Erika
