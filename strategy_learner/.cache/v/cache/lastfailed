@@ -1,0 +1,7 @@
+{
+  "grade_strategy_learner.py::test_strategy[AAPL-insample_args1-outsample_args1-stock-0.1582-0.0-25-5-60-1481090000]": true, 
+  "grade_strategy_learner.py::test_strategy[ML4T-220-insample_args0-outsample_args0-clean-1.0-0.0-25-5-60-1481090000]": true, 
+  "grade_strategy_learner.py::test_strategy[ML4T-220-insample_args0-outsample_args0-clean-1.0-0.0-25-5-600-1481090000]": true, 
+  "grade_strategy_learner.py::test_strategy[SINE_FAST_NOISE-insample_args2-outsample_args2-noisy-2.0-0.0-25-5-60-1481090000]": true, 
+  "grade_strategy_learner.py::test_strategy[UNH - In sample-insample_args3-outsample_args3-stock--0.2524-0.0-25-5-60-1481090000]": true
+}

@@ -1,0 +1,77 @@
+<pre>--- Summary ---
+Tests passed: 0 out of 18
+
+--- Details ---
+Test #0: failed 
+Test case description: Wiki example 1
+TypeError: assess_portfolio() got an unexpected keyword argument 'sv'
+
+Test #1: failed 
+Test case description: Wiki example 2
+TypeError: assess_portfolio() got an unexpected keyword argument 'sv'
+
+Test #2: failed 
+Test case description: Wiki example 3: Six month range
+TypeError: assess_portfolio() got an unexpected keyword argument 'sv'
+
+Test #3: failed 
+Test case description: Normalization check
+TypeError: assess_portfolio() got an unexpected keyword argument 'sv'
+
+Test #4: failed 
+Test case description: One month range
+TypeError: assess_portfolio() got an unexpected keyword argument 'sv'
+
+Test #5: failed 
+Test case description: Low Sharpe ratio
+TypeError: assess_portfolio() got an unexpected keyword argument 'sv'
+
+Test #6: failed 
+Test case description: All your eggs in one basket
+TypeError: assess_portfolio() got an unexpected keyword argument 'sv'
+
+Test #7: failed 
+Test case description: Two year range
+TypeError: assess_portfolio() got an unexpected keyword argument 'sv'
+
+Test #8: failed 
+Test case description: bpotocki3 - Test 2 - All your eggs in one basket (but different rfr)
+TypeError: assess_portfolio() got an unexpected keyword argument 'sv'
+
+Test #9: failed 
+Test case description: bpotocki3 - Test 2 - All your eggs in one basket (but different rfr)
+TypeError: assess_portfolio() got an unexpected keyword argument 'sv'
+
+Test #10: failed 
+Test case description: bpotocki3 - Test 3 - Two stocks
+TypeError: assess_portfolio() got an unexpected keyword argument 'sv'
+
+Test #11: failed 
+Test case description: bpotocki3 - Test 4 - Five stocks
+TypeError: assess_portfolio() got an unexpected keyword argument 'sv'
+
+Test #12: failed 
+Test case description: Test - different allocations
+TypeError: assess_portfolio() got an unexpected keyword argument 'sv'
+
+Test #13: failed 
+Test case description: Test - high rfr
+TypeError: assess_portfolio() got an unexpected keyword argument 'sv'
+
+Test #14: failed 
+Test case description: rhunter: testcase 4
+TypeError: assess_portfolio() got an unexpected keyword argument 'sv'
+
+Test #15: failed 
+Test case description: rhunter: testcase 5
+TypeError: assess_portfolio() got an unexpected keyword argument 'sv'
+
+Test #16: failed 
+Test case description: rhunter: testcase 6
+TypeError: assess_portfolio() got an unexpected keyword argument 'sv'
+
+Test #17: failed 
+Test case description: Test - fake data
+TypeError: assess_portfolio() got an unexpected keyword argument 'sv'
+
+</pre>

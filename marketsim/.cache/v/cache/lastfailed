@@ -1,0 +1,5 @@
+{
+  "grade_marketsim.py::test_marketsim[testcases_mc2p1 : rhunter 12-both-inputs28-outputs28]": true, 
+  "grade_marketsim.py::test_marketsim[testcases_mc2p1 : rhunter 13-both-inputs29-outputs29]": true, 
+  "grade_marketsim.py::test_marketsim[testcases_mc2p1 : rhunter 14-both-inputs30-outputs30]": true
+}

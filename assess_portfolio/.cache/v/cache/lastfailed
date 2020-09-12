@@ -1,0 +1,20 @@
+{
+  "grade_analysis.py::test_analysis[inputs0-outputs0-Wiki example 1]": true, 
+  "grade_analysis.py::test_analysis[inputs1-outputs1-Wiki example 2]": true, 
+  "grade_analysis.py::test_analysis[inputs10-outputs10-bpotocki3 - Test 3 - Two stocks]": true, 
+  "grade_analysis.py::test_analysis[inputs11-outputs11-bpotocki3 - Test 4 - Five stocks]": true, 
+  "grade_analysis.py::test_analysis[inputs12-outputs12-Test - different allocations]": true, 
+  "grade_analysis.py::test_analysis[inputs13-outputs13-Test - high rfr]": true, 
+  "grade_analysis.py::test_analysis[inputs14-outputs14-rhunter: testcase 4]": true, 
+  "grade_analysis.py::test_analysis[inputs15-outputs15-rhunter: testcase 5]": true, 
+  "grade_analysis.py::test_analysis[inputs16-outputs16-rhunter: testcase 6]": true, 
+  "grade_analysis.py::test_analysis[inputs17-outputs17-Test - fake data]": true, 
+  "grade_analysis.py::test_analysis[inputs2-outputs2-Wiki example 3: Six month range]": true, 
+  "grade_analysis.py::test_analysis[inputs3-outputs3-Normalization check]": true, 
+  "grade_analysis.py::test_analysis[inputs4-outputs4-One month range]": true, 
+  "grade_analysis.py::test_analysis[inputs5-outputs5-Low Sharpe ratio]": true, 
+  "grade_analysis.py::test_analysis[inputs6-outputs6-All your eggs in one basket]": true, 
+  "grade_analysis.py::test_analysis[inputs7-outputs7-Two year range]": true, 
+  "grade_analysis.py::test_analysis[inputs8-outputs8-bpotocki3 - Test 2 - All your eggs in one basket (but different rfr)]": true, 
+  "grade_analysis.py::test_analysis[inputs9-outputs9-bpotocki3 - Test 2 - All your eggs in one basket (but different rfr)]": true
+}
